@@ -1,2 +1,2 @@
 # lps-prtr-to-clrtap
-Transform ePRTR data to the CLRTAP table format
+Transform ePRTR large point source (LPS) data to the CLRTAP table format
